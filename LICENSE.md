@@ -1,6 +1,6 @@
 MIT License
 
-Modified & original work Copyright (c) 2019 Corentin Jemine (https://github.com/CorentinJ](https://github.com/NQTri00)
+Modified & original work Copyright (c) 2019 Corentin Jemine (https://github.com/NQTri00)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
